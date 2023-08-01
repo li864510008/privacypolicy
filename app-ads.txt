@@ -1,6 +1,9 @@
 # google
 google.com, pub-8327910631153791, DIRECT, f08c47fec0942fa0
 
+# Meta
+facebook.com, 243781168460509, DIRECT, c3e20eee3f780d68
+
 # Chartboost
 chartboost.com,64c872977269919ddb24ff18,DIRECT
 
