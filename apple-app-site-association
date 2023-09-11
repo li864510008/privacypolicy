@@ -1,0 +1,15 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID":"X7RA6FBDF3.com.m76cf.kumqffwjv",
+                "paths": ["*"]
+            },
+            {
+                "appID":"JZW2VNK835.test.wanz.game",
+                "paths": ["*"]
+            }
+        ]
+    }
+}
