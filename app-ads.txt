@@ -2,7 +2,6 @@ google.com, pub-8327910631153791, DIRECT, f08c47fec0942fa0
 google.com, pub-1466077277073113, DIRECT, f08c47fec0942fa0
 
 facebook.com, 3194207707293565, DIRECT, c3e20eee3f780d68
-facebook.com, 3194207707293565, DIRECT, c3e20eee3f780d68
 
 chartboost.com,64c872977269919ddb24ff18,DIRECT
 
