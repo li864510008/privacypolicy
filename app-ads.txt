@@ -1,2 +1,3 @@
 google.com, pub-2293620441227784, DIRECT, f08c47fec0942fa0
 ironsrc.com, 293105, Direct, 79929e88b2ba73bc
+facebook.com, 3194207707293565, DIRECT, c3e20eee3f780d68
